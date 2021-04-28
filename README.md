@@ -1,4 +1,4 @@
-# Goats_and_Grass
+# Goat-Grass ecosystem simulator
 This Goats-Grass ecosystem simulator is a homework of the course 'Object-Oriented Programming' lectured by Prof. Tsai-Yen, Li from National Chenchi Univ.
 This homework is design by Prof. Li, and the code was mainly constructed by myself.
 
